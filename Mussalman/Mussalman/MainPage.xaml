@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Mussalman"
+             xmlns:controls="clr-namespace:Controls"
+             x:Class="Mussalman.MainPage" Title="Efface Prayer Times">
+
+
+    <ScrollView>
+    <StackLayout BackgroundColor="#111">
+
+            <Label x:Name="TitleTxt" Text="" FontSize="Medium" HorizontalTextAlignment="Center" Margin="0,20,0,0" />
+
+
+
+            <StackLayout Orientation="Vertical" Spacing="10" Margin="15, 20 , 15 , 0" BackgroundColor="Transparent">
+
+
+                <Entry x:Name="Country" Placeholder="Country Name" PlaceholderColor="Gray" BackgroundColor="#222" TextColor="White"/>
+                <Entry x:Name="City" Placeholder="City Name" PlaceholderColor="Gray" BackgroundColor="#222" TextColor="White" />
+                <Button x:Name="AutoDet" HorizontalOptions="Center" Text="Get Prayer Times" BackgroundColor="OrangeRed" TextColor="White" Clicked="AutoDet_Clicked" />
+
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"  BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+                
+                
+                        <Entry 
+                Placeholder="Fajr Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                    x:Name="Fajrbox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+                />
+             
+                
+             
+                
+                
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal"  BackgroundColor="#222" Margin="15, 20 , 15 , 0" >
+
+
+                <Entry 
+                Placeholder="Sunrise Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                    x:Name="Sunrisebox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+
+                <Entry 
+                Placeholder="Dhuhr Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                    x:Name="Zuhrbox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+
+                <Entry 
+                Placeholder="Asr Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                  x:Name="Asrbox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+
+                <Entry 
+                Placeholder="Sunset Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                    x:Name="Sunsetbox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+
+                <Entry 
+                Placeholder="Maghrib Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                  x:Name="MaghribBox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+
+            </StackLayout>
+            <StackLayout Orientation="Horizontal" BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+
+                <Entry 
+                Placeholder="Isha Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                x:Name="Ishabox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="#222" Margin="15, 20 , 15 , 0">
+
+
+                <Entry 
+                Placeholder="Imsak Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                    x:Name="Imsakbox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+                
+
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal" Margin="15, 20 , 15 , 0" BackgroundColor="#222">
+
+
+                <Entry 
+                Placeholder="Midnight Time"
+                    PlaceholderColor="Gray"
+                    TextColor="White"
+                    x:Name="midnightbox"
+                    HorizontalOptions="FillAndExpand"
+                            BackgroundColor="#222"
+
+                />
+                
+                
+
+            </StackLayout>
+
+          
+
+
+
+            
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

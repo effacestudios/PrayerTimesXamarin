@@ -1,0 +1,12 @@
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\bin\Debug\netstandard2.0\Mussalman.deps.json
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\bin\Debug\netstandard2.0\Mussalman.dll
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\bin\Debug\netstandard2.0\Mussalman.pdb
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\Mussalman.csproj.CoreCompileInputs.cache
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\Mussalman.AssemblyInfoInputs.cache
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\Mussalman.AssemblyInfo.cs
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\Mussalman.dll
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\Mussalman.pdb
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\Mussalman.csprojAssemblyReference.cache
+C:\Main\Softwares\Installed\Projects\Mussalman\Mussalman\Mussalman\obj\Debug\netstandard2.0\XamlC.stamp
